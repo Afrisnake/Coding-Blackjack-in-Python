@@ -5,7 +5,7 @@ Python code for a multi-player game of Blackjack
 This Jupyter Notebook includes the Python code for a simple, textual, multi-player, multi-deck game of Blackjack - the most widely played casino banking game in the world. Each player competes against the dealer with the aim of reaching a hand total closer to 21 (but not exceeding this value) than the dealer's total. The Wikipedia entry for [Blackjack](https://en.wikipedia.org/wiki/Blackjack) provides full details. The code was developed as a milestone project for the [2021 Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/).
 
 ## Implementation
-My implementation is a simplified version of the game, not including functions to **double down**, **split**, **surrender** or place **insurance bets**.
+My implementation is a simplified version of the game, not including functionality to **double down**, **split**, **surrender** or place **insurance bets**. Docstrings are provided for the various classes, methods and functions. 
 - The computer acts as the dealer
 - Any number of players can compete
 - Any number of decks can be used for a given game
