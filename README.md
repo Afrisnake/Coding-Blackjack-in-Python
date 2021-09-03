@@ -17,4 +17,4 @@ Python 3.8
 
 ## Contact
 Please feel free to contact me (Chris Kelly) at the following email:<br/>
-![email address image](http://cmscoby.com/public/pics/email-address-image.gif)
+(![cmrkelly_gmail_address](<img src="https://user-images.githubusercontent.com/84908213/132017045-478f11d5-8c5d-4835-9174-1992a92a187c.jpg" alt="email" width"200"/img>)
